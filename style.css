@@ -1,0 +1,14 @@
+h1{
+    color: rgb(204, 20, 155); background-color: gold;
+    border-style:groove; font-style: italic;
+}
+div{
+    color:rgb(218, 10, 10); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: rgb(204, 50, 178); background-color: gold; font-style: italic;
+    text-decoration: solid;
+}
+input{
+    color: rebeccapurple; background-color: antiquewhite;
+}
